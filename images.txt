@@ -1,1 +1,1 @@
-docker.io/bitnami/kafka:3.7
+docker.io/bitnami/kafka:2.12
