@@ -1,1 +1,1 @@
-docker.io/bitnami/kafka:2.12
+docker.io/kubernetesui/metrics-scraper:v1.0.8
