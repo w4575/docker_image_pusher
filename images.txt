@@ -1,1 +1,1 @@
-jenkinsci/blueocean
+mysql:8.0.32
