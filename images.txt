@@ -1,1 +1,1 @@
-jenkins/jenkins:lts
+docker.io/calico/cni
