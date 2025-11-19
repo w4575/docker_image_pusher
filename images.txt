@@ -1,1 +1,1 @@
-ghost:latest
+docker.io/calico/cni:v3.26.3
