@@ -1,1 +1,1 @@
-busybox:latest
+jenkins/jenkins:lts-jdk17
